@@ -2,7 +2,7 @@ autotrading
 ===========
 
 The purpose of this application is to simulate loss-stop trading. cause I can't find the loss-stop feature in almost all the trading 
-application provided by brokers. 
+application provided by brokers in china. 
 Before I create this application, There are a lot 3rd party software use win32 APIs to manipulate the trading application with 
 mouse/keyboard events. but no open source python implementation.
 
